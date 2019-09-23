@@ -1,5 +1,9 @@
 # SqlWriter
-
+## Usage
+An inseresting way to combine sql strings using C#
+## Nuget
+https://www.nuget.org/packages/SqlWriter/
+## Example
 ```csharp
 //insert itemlist valuelist
 var insertSql = new SqlString();
