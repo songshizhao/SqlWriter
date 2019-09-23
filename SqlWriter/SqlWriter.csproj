@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://www.songshizhao.com/blog/blogPage/1324.html</PackageProjectUrl>
+    <Description>an interesting way to generate sql string.</Description>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
